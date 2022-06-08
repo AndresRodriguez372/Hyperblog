@@ -1,2 +1,5 @@
 esta es la historia de angel
 aprende a programar en javaScipt para despues aprender react
+
+
+Hoy hablaremos de lo cool que es aprender a manejar las verisones con unas lineas de codigo
