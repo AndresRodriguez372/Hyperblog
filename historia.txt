@@ -1,2 +1,2 @@
 esta es la historia de angel
-aprende a programas
+aprende a programar en javaScipt para despues aprender react
